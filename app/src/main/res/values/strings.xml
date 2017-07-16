@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Muzik</string>
+
+    <!--TAB BAR TITLES-->
+    <string name="songs">SONGS</string>
+    <string name="folder">FOLDERS</string>
+    <string name="albums">ALBUMS</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="artists">ARTISTS</string>
+
+    <!--Player Strings -->
+    <string name="title_permissions">Permissions</string>
+    <string name="message_permissions"><![CDATA[To allow music widget view to process audio stream app needs an access to your <b>Microphone</b>.]]></string>
+    <string name="read_ext_permissions_message">To load list of music app needs access to your media files.</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_continue">Continue</string>
+    <string name="no_music_found">No music found</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="toast_permissions_not_granted">Permissions not granted.</string>
+    <string name="permissions_title">Permissions</string>
+    <string name="search">Search</string>
+    <string name="song_not_selected">Song not selected</string>
+    <string name="shuffle_on">Shuffle ON</string>
+    <string name="shuffle_off">Shuffle OFF</string>
+    <string name="repeat_on">Repeat ON</string>
+    <string name="repeat_off">Repeat OFF</string>
+
+    <!-- AudioVisualization View -->
+    <string name="wallpaper_name">Audio Visualization Wallpaper</string>
+    <string name="wallpaper_title">Audio Visualization Wallpaper</string>
+    <string name="wallpaper_description">Audio visualization wallpaper description.</string>
+    <string name="action_save">Save</string>
+    <string name="btn_set">Set</string>
+    <string name="action_choose_preset">Choose Preset</string>
+    <string name="color_hint">Tap on layer to pick custom color or choose color preset from menu.</string>
+
+    <string-array name="presets">
+        <item>Preset 1</item>
+        <item>Preset 2</item>
+        <item>Preset 3</item>
+        <item>Preset 4</item>
+        <item>Preset 5</item>
+        <item>Preset 6</item>
+        <item>Preset 7</item>
+        <item>Preset 8</item>
+    </string-array>
+
+</resources>

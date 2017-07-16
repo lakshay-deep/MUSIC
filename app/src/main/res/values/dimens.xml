@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cover_size">60dp</dimen>
+
+    <!--TextSize-->
+    <dimen name="font_small">12dp</dimen>
+    <dimen name="font_normal">14dp</dimen>
+    <dimen name="font_large">16dp</dimen>
+
+    <!-- Wave Dimens -->
+    <dimen name="bubble_size">25dp</dimen>
+    <dimen name="wave_height">60dp</dimen>
+    <dimen name="footer_height">170dp</dimen>
+
+</resources>
